@@ -1,1 +1,4 @@
 logs/
+airflow-scheduler.log
+airflow-scheduler.out
+airflow.db
